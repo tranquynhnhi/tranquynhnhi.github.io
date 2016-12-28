@@ -13,15 +13,15 @@
 
 # International talk and paper/pattern, Awards
 - title: "Communications"
-  url: "/Communications/"
+  url: "/communications/"
   side: left
 
 - title: "Education"
-  url: "/Education/"
+  url: "/education/"
   side: left
 
 - title: "Hobby"
-  url: "/Hobby/"
+  url: "/hobby/"
   side: left
   dropdown:
   - title: "Cooking"
