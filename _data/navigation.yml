@@ -1,0 +1,36 @@
+- title: Start
+  url: "/"
+  side: left
+
+#- title: Getting Started
+#  url: "/getting-started/"
+#  side: left
+# In form of projects: Phd, intership, at schools
+- title: "Experiences"
+  url: "/experiences/"
+  side: left
+
+
+# International talk and paper/pattern, Awards
+- title: "Communications"
+  url: "/Communications/"
+  side: left
+
+- title: "Education"
+  url: "/Education/"
+  side: left
+
+- title: "Hobby"
+  url: "/Hobby/"
+  side: left
+  dropdown:
+  - title: "Cooking"
+    url: "/hobby/cooking/"
+  - title: "Piano"
+    url: "/hobby/piano"
+
+
+
+- title: "Contact"
+  url: "/contact/"
+  side: right
