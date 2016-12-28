@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   enable-background="new"
+   sodipodi:docname="chamcon_Logo.svg">
+  <defs
+     id="defs4">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4188">
+      <feBlend
+         inkscape:collect="always"
+         mode="lighten"
+         in2="BackgroundImage"
+         id="feBlend4190" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4228"
+       x="-0.013818337"
+       width="1.0276367"
+       y="-0.09119323"
+       height="1.1823865">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.5127441"
+         id="feGaussianBlur4230" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4566"
+       x="-0.0062459783"
+       width="1.012492"
+       y="-0.15235435"
+       height="1.3047087">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.238623"
+         id="feGaussianBlur4568" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.64"
+     inkscape:cx="388.15018"
+     inkscape:cy="837.26615"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="751"
+     inkscape:window-x="23"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="shadow_t1"
+     style="filter:url(#filter4188)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4228)"
+       x="59.326172"
+       y="277.21036"
+       id="text4138"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4140"
+         x="59.326172"
+         y="277.21036"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:57.5px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';fill:#4d4d4d;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none">Cham Con</tspan><tspan
+         sodipodi:role="line"
+         x="59.326172"
+         y="349.08536"
+         id="tspan4142"
+         style="font-size:20px;fill:#4d4d4d;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none" /></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4232"
+       y="299.98917"
+       x="159.55859"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;filter:url(#filter4566)"
+       xml:space="preserve"><tspan
+         style="font-style:italic;font-weight:bold;font-size:20px;fill:#1a1a1a"
+         y="299.98917"
+         x="159.55859"
+         id="tspan4234"
+         sodipodi:role="line">Cham soc con theo phuong phap khoa hoc</tspan></text>
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:inline">
+    <rect
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.30778933;stroke-miterlimit:4;stroke-dasharray:1.30778935, 3.92336804000000017;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4136"
+       width="598.6922"
+       height="78.692207"
+       x="48.375328"
+       y="231.00897" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="157.14218"
+       y="299.77823"
+       id="text4144"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4146"
+         x="157.14218"
+         y="299.77823"
+         style="font-style:italic;font-weight:bold;font-size:20px;fill:#ffffff;stroke:#000000;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none">Cham soc con theo phuong phap khoa hoc</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text4148"
+       y="275.53461"
+       x="55.558392"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:#1a1a1a;stroke-width:0.1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:57.5px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';fill:#ffffff;stroke:#1a1a1a;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+         y="275.53461"
+         x="55.558392"
+         id="tspan4150"
+         sodipodi:role="line">Cham Con</tspan><tspan
+         style="font-size:20px;fill:#ffffff;stroke:#1a1a1a;stroke-width:0.1;stroke-miterlimit:4;stroke-dasharray:none"
+         id="tspan4152"
+         y="347.40961"
+         x="55.558392"
+         sodipodi:role="line" /></text>
+  </g>
+</svg>
